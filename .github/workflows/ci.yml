@@ -39,7 +39,11 @@ jobs:
       - name: Run Health Check
         run: |
           python health_check.py
-          
+
+      - name: Run Retrieval Smoke Test
+        run: |
+          python smoke_test.py
+
       - name: Build Check Passed
         run: |
           echo "Build validation successful."
