@@ -1,0 +1,149 @@
+question,gold_answer,expected_policy,answer,sources
+What is the probationary period?,Employees serve a probationary period before regularization,03-human-resources-policy.md,"The probationary period for new employees is six months, as outlined in **Source 1** (Document: 03-human-resources-policy.md, Section: Probationary Employment). During this period, performance reviews are conducted at the 3rd and 6th months to assess suitability and progress. This policy ensures employees meet expectations before transitioning to permanent roles. 
+
+**Source 1** explicitly states the six-month duration and review schedule. No other sources in the context mention probationary periods. 
+
+Answer:  
+The probationary period is **six months**, with performance reviews at **Month 3** and **Month 6** (Source 1).",03-human-resources-policy.md; 04-compensation-benefits-policy.md; 06-information-technology-policy.md
+How often are performance reviews conducted?,Performance reviews are conducted on a regular schedule,03-human-resources-policy.md,"Performance reviews are conducted quarterly for all employees during check-ins and annually during the Performance Review process. Additionally, probationary employees undergo reviews at Month 3 and Month 6 of their probationary period. These reviews assess criteria such as Results, Collaboration, Accountability, and Innovation (Source 1). For probationary employees, reviews are specifically scheduled at 3 and 6 months (Source 3). Departmental KPIs like Audience Growth and System Availability are monitored weekly via reporting, but this pertains to operational metrics rather than individual performance reviews (Sources 2 and 4). Promotions depend on exceeding expectations and demonstrating competencies, but review frequency is tied to the above schedules (Source 5). 
+
+**Sources:**  
+Source 1: Quarterly check-ins and annual reviews.  
+Source 3: Probationary reviews at Month 3 and Month 6.",03-human-resources-policy.md; 05-operations-policy.md
+What is the employee code of conduct?,Employees must follow the company code of conduct,03-human-resources-policy.md,"The employee code of conduct is outlined in the **Code of Conduct** policy (OD-POL-002) and includes the following key sections:  
+
+1. **Ethical Standards** (Source 2): Employees must follow laws and regulations, avoid bribery and corruption, and report unethical conduct.  
+2. **Professional Conduct** (Source 3): Employees must treat colleagues respectfully, maintain professionalism, avoid abusive language, and support diversity and inclusion.  
+3. **Purpose** (Source 4): The code establishes behavioral expectations for all employees.  
+4. **Communication Principles** (Source 5): Employees must assume positive intent, communicate respectfully, escalate issues early, and share relevant information promptly.  
+
+These sections collectively define the expected behavior and standards for employees.  
+
+**Sources**:  
+- Source 1: Code of Conduct (OD-POL-002)  
+- Source 2: Ethical Standards  
+- Source 3: Professional Conduct  
+- Source 4: Purpose  
+- Source 5: Communication Principles",01-company-overview.md; 02-code-of-conduct.md
+How should workplace harassment be reported?,Harassment incidents must be reported through designated channels,03-human-resources-policy.md,"Workplace harassment should be reported to the direct manager, Human Resources, or the Executive Office, as outlined in **Source 3**. The policy explicitly states that retaliation against reporters is prohibited. Employees are encouraged to escalate concerns promptly and follow established channels to ensure accountability. This aligns with broader professional conduct standards, which emphasize respectful communication and support for diversity, as noted in **Source 2** and **Source 4**.",01-company-overview.md; 02-code-of-conduct.md
+What is the disciplinary process for policy violations?,Policy violations are addressed through disciplinary procedures,03-human-resources-policy.md,I can only answer questions about the company policies contained in the knowledge base.,01-company-overview.md; 02-code-of-conduct.md; 04-compensation-benefits-policy.md
+How many annual leave days are provided?,Employees receive annual leave benefits,04-compensation-benefits-policy.md,"The company provides **15 annual vacation leave days** as stated in the **Vacation Leave** section of the compensation and benefits policy.  
+
+**Source:**  
+[Source 1] Document: 04-compensation-benefits-policy.md, Section: Vacation Leave.  
+
+Note: Sick leave and bereavement leave are separate from annual leave, with 15 days and 3 days respectively, but these are not classified as ""annual leave.""",03-human-resources-policy.md; 04-compensation-benefits-policy.md
+Are employees eligible for health insurance?,Eligible employees receive health insurance benefits,04-compensation-benefits-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+The provided context does not include specific information about health insurance eligibility for employees. The referenced documents cover topics such as compensation, equipment allowances, leave benefits, and parental leave, but none explicitly address health insurance policies.  
+
+Sources:  
+- [Source 1](#source-1)  
+- [Source 2](#source-2)  
+- [Source 3](#source-3)  
+- [Source 4](#source-4)  
+- [Source 5](#source-5)",04-compensation-benefits-policy.md; 06-information-technology-policy.md
+How is overtime compensation handled?,Overtime is compensated according to company policy,04-compensation-benefits-policy.md,"Overtime compensation requires manager approval, as stated in the Overtime section of the policy. Unauthorized overtime may not be compensated. [Source 1]",04-compensation-benefits-policy.md
+How should project documentation be maintained?,Project documentation must be kept accurate and current,05-operations-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+The provided context does not specify how project documentation should be maintained. The sources mention project lifecycle stages, ownership roles, and document ownership review processes, but none address documentation maintenance procedures.  
+
+Answer:  
+""I can only answer questions about the company policies contained in the knowledge base.""",01-company-overview.md; 03-human-resources-policy.md; 05-operations-policy.md
+What is the process for escalating operational issues?,Operational issues must be escalated according to defined procedures,05-operations-policy.md,"The process for escalating operational issues involves categorizing issues under the Escalation Framework, with **Critical** issues requiring immediate escalation due to their impact on business operations (Source 1, Source 2). Employees are instructed to escalate issues early and communicate respectfully, ensuring relevant information is shared promptly (Source 4). The **Operations** team is responsible for coordination and execution, which includes managing escalations per the defined framework (Source 5). Critical issues demand immediate action to prevent business disruption, while other issues follow the established escalation protocols. Communication principles emphasize assuming positive intent and maintaining respectful dialogue during escalation. 
+
+Sources:  
+- Source 1  
+- Source 2  
+- Source 4  
+- Source 5",01-company-overview.md; 05-operations-policy.md
+How are standard operating procedures managed?,SOPs are maintained and reviewed regularly,05-operations-policy.md,I can only answer questions about the company policies contained in the knowledge base.,01-company-overview.md; 05-operations-policy.md; 06-information-technology-policy.md
+What is the password policy?,Passwords must comply with company security requirements,06-information-technology-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+The provided context does not include specific details about a password policy. While Source 4 mentions ""use MFA where supported,"" this refers to multi-factor authentication rather than password requirements. No other sources address password complexity, frequency of changes, storage, or other standard password policy elements.  
+
+For password policy details, refer to the full IT policy document or additional security guidelines not included in this context.  
+
+**Sources:**  
+- [Source 4] (Device Standards)  
+- [Source 5] (Acceptable Use)",06-information-technology-policy.md
+Are employees allowed to install software?,Software installation requires authorization,06-information-technology-policy.md,"Employees are allowed to install software only if it is approved. Software installation requests must be submitted through the IT Service Desk, and approvals are required from the Employee Manager and IT Department. Applications handling confidential data must also undergo an Information Security review per OD-POL-007. Installing unauthorized software is explicitly prohibited [Source 2]. Personal use of company systems for software installation is permitted only if it complies with the Acceptable Use policy, such as not violating laws or creating security risks [Source 3]. 
+
+**Sources:**  
+[Source 1], [Source 2], [Source 3]",06-information-technology-policy.md
+How should company devices be used?,Company devices must be used for approved business purposes,06-information-technology-policy.md,"Company devices should be used in accordance with the **Acceptable Use** policy outlined in **Source 2**. Employees are permitted to use company systems for limited personal activities, but such use must adhere to the following conditions:  
+1. **Does not interfere with work** (Source 2).  
+2. **Does not violate laws** (Source 2).  
+3. **Does not create security risks** (Source 2).  
+4. **Does not consume excessive resources** (Source 2).  
+
+Additionally, all company devices must comply with the **Device Standards** policy (Source 1), which requires endpoint protection software, disk encryption, automatic updates, and multi-factor authentication (MFA) where supported. These standards ensure security and operational integrity.  
+
+Employees must also respect **Asset Ownership** rules (Source 3), returning all company-issued technology assets upon separation from employment. Technology assets encompass laptops, mobile devices, cloud services, software licenses, email accounts, collaboration platforms, and network infrastructure (Source 4).  
+
+For operational consistency, the **Purpose** section of the Operations Policy (Source 5) emphasizes aligning device usage with project execution and operational activities.  
+
+**Answer cites:** Source 2 (Acceptable Use), Source 1 (Device Standards), Source 3 (Asset Ownership), Source 4 (Technology Assets), Source 5 (Purpose).",05-operations-policy.md; 06-information-technology-policy.md
+How often must passwords be changed?,Passwords must be updated according to security policy,07-information-security-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+None of the provided documents (Source 1-5) specify requirements for password change frequency. The policies addressed include account deactivation, probationary periods, vacation leave, device standards, and bereavement leave, but none mention password expiration or update policies.  
+
+Answer:  
+""I can only answer questions about the company policies contained in the knowledge base.""",03-human-resources-policy.md; 04-compensation-benefits-policy.md; 06-information-technology-policy.md
+What should employees do after identifying a phishing email?,Phishing attempts must be reported immediately,07-information-security-policy.md,"Employees should not forward confidential information externally (Source 1) and must report phishing emails to IT or cybersecurity teams to mitigate risks (Source 2). They should also follow the ""escalate issues early"" principle from Communication Principles (Source 3) to ensure proper handling. Additionally, confidentiality policies prohibit disclosing sensitive data, which includes reporting phishing attempts to protect internal information (Source 5). Training during onboarding (Source 4) likely covers these protocols. 
+
+**Sources:**  
+- Source 1: Email Usage policy prohibits forwarding confidential info.  
+- Source 2: Information Security emphasizes cybersecurity responsibility.  
+- Source 3: Communication Principles require early issue escalation.  
+- Source 5: Confidentiality policy bans disclosure of sensitive data.  
+- Source 4: Onboarding includes security awareness training.",01-company-overview.md; 02-code-of-conduct.md; 03-human-resources-policy.md; 06-information-technology-policy.md
+How should security incidents be reported?,Security incidents must follow incident reporting procedures,07-information-security-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+The provided context does not specify a formal process for reporting security incidents. However, it does mention that concerns (which may include security-related issues) can be reported to a direct manager, Human Resources, or the Executive Office (Source 2). Additionally, employees are required to maintain confidentiality regarding security procedures (Source 4). For detailed guidance on security incident reporting, refer to the full Information Security Policy (OD-POL-007).  
+
+No specific policy section in the provided context outlines steps for reporting security incidents.",01-company-overview.md; 02-code-of-conduct.md; 05-operations-policy.md
+Can employees use AI tools for work?,Approved AI tools may be used according to AI governance guidelines,08-ai-governance-policy.md,"Employees are encouraged to responsibly leverage technology and artificial intelligence for work, as stated in the Innovation section (Source 1). The Artificial Intelligence Office oversees AI governance and standards (Source 2), ensuring responsible use. Additionally, the Acceptable Use policy (Source 4) allows limited personal use of company systems, provided it does not interfere with work, violate laws, create security risks, or consume excessive resources. Since AI tools fall under company technology resources, their use for work must comply with these guidelines. Thus, employees may use AI tools for work, provided they adhere to the outlined policies and standards. 
+
+Citations: Source 1, Source 2, Source 4.",01-company-overview.md; 06-information-technology-policy.md
+Can confidential data be entered into public AI systems?,Confidential data must not be shared with unauthorized AI services,08-ai-governance-policy.md,"Confidential data cannot be entered into public AI systems. The company's policies explicitly prohibit disclosing confidential information, including customer and financial data, and restrict the use of unapproved cloud storage services (Source 1, Source 4). While approved AI platforms are permitted (Source 4), public AI systems are not explicitly listed as approved. Additionally, applications handling confidential data require an Information Security review (Source 2). Since public AI systems likely fall outside approved platforms and pose risks of data exposure, entering confidential data into them would violate confidentiality and security policies. 
+
+Answer cites: Source 1, Source 2, Source 4.",01-company-overview.md; 02-code-of-conduct.md; 06-information-technology-policy.md
+Who approves new AI tools?,AI tools require approval under governance procedures,08-ai-governance-policy.md,"It seems your message is a repetitive and circular attempt to describe a process involving the AI Office and IT Department, but it lacks clarity and a clear question or objective. To help you effectively, could you please clarify what you're asking or what you need assistance with? For example:
+
+- Are you trying to understand a specific workflow or approval process?
+- Do you need guidance on how to structure a policy or procedure?
+- Are you looking for help with a technical issue related to AI or IT systems?
+
+Once you provide more context, I can offer a precise and helpful response.",01-company-overview.md; 05-operations-policy.md; 06-information-technology-policy.md
+How is personal employee data protected?,Personal data must be handled according to privacy requirements,09-data-privacy-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+The provided context does not include specific policies regarding the protection of personal employee data. The referenced documents address confidentiality, acceptable use of systems, social media conduct, data backup, and prohibited activities, but none explicitly outline measures for safeguarding personal employee information.  
+
+Sources:  
+- [Source 1](#source-1)  
+- [Source 2](#source-2)  
+- [Source 3](#source-3)  
+- [Source 4](#source-4)  
+- [Source 5](#source-5)",02-code-of-conduct.md; 06-information-technology-policy.md
+What should be done in the event of a data breach?,Data breaches must be reported and managed according to policy,09-data-privacy-policy.md,"In the event of a data breach, employees must immediately escalate the incident as it constitutes a critical business disruption (Source 2). The Business Continuity Policy (OD-POL-014) should be followed to ensure data backup and recovery procedures are enacted (Source 1). Additionally, confidentiality protocols from the Information Security Policy (OD-POL-007) must be strictly adhered to, preventing unauthorized disclosure of financial, customer, or security-related information (Source 4). Prohibited activities, such as sharing credentials or disabling security tools, must also be avoided to mitigate further risks (Source 5). These steps align with the company’s policies to address breaches promptly and securely. 
+
+Sources: Source 1, Source 2, Source 4, Source 5.",01-company-overview.md; 02-code-of-conduct.md; 05-operations-policy.md; 06-information-technology-policy.md
+How are employee expenses reimbursed?,Expense reimbursements follow finance procedures,10-finance-policy.md,"I can only answer questions about the company policies contained in the knowledge base.  
+
+The provided context specifies reimbursement policies for specific expenses:  
+- **Internet Allowance**: Remote employees receive monthly internet reimbursement (Source 1).  
+- **Training Allowance**: Employees get a yearly training allowance for learning and development (Source 2).  
+
+No general policy for reimbursing all employee expenses is explicitly stated in the provided documents.",03-human-resources-policy.md; 04-compensation-benefits-policy.md
+Who approves company expenditures?,Company expenditures require proper authorization,10-finance-policy.md,"The approval of company expenditures depends on the amount and nature of the expenditure. **CEO approval is required for contracts exceeding ₱1,000,000** (Source 1). **Department heads may approve routine operational decisions within their authorized budgets** (Source 1). The **Finance department is responsible for budgeting, procurement, and financial reporting**, which includes overseeing expenditures (Source 3). For larger or strategic expenditures, such as organizational restructuring or annual budgets, CEO approval is mandatory (Source 1). Routine expenditures within departmental budgets are handled by department heads. The **Executive Office reviews document ownership policies annually**, ensuring compliance with expenditure protocols (Source 5). 
+
+For clarity:  
+- **CEO**: Contracts > ₱1M, strategic initiatives, annual budgets, restructuring.  
+- **Department Heads**: Routine operational decisions within budget limits.  
+- **Finance**: Manages budgeting, procurement, and financial reporting.  
+
+Citations: Source 1, Source 3, Source 5.",01-company-overview.md; 06-information-technology-policy.md
+Can employees work remotely?,Remote work is permitted under approved arrangements,12-remote-work-policy.md,"Employees may work remotely, as remote employees are eligible for monthly internet reimbursement under the Internet Allowance policy. This policy acknowledges the allowance of remote work arrangements. 
+
+**Source:** [Source 2]",01-company-overview.md; 02-code-of-conduct.md; 04-compensation-benefits-policy.md; 06-information-technology-policy.md

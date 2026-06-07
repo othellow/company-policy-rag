@@ -1,0 +1,26 @@
+question,gold_answer,policy
+What is the probationary period?,Employees serve a probationary period before regularization,03-human-resources-policy.md
+How often are performance reviews conducted?,Performance reviews are conducted on a regular schedule,03-human-resources-policy.md
+What is the employee code of conduct?,Employees must follow the company code of conduct,03-human-resources-policy.md
+How should workplace harassment be reported?,Harassment incidents must be reported through designated channels,03-human-resources-policy.md
+What is the disciplinary process for policy violations?,Policy violations are addressed through disciplinary procedures,03-human-resources-policy.md
+How many annual leave days are provided?,Employees receive annual leave benefits,04-compensation-benefits-policy.md
+Are employees eligible for health insurance?,Eligible employees receive health insurance benefits,04-compensation-benefits-policy.md
+How is overtime compensation handled?,Overtime is compensated according to company policy,04-compensation-benefits-policy.md
+How should project documentation be maintained?,Project documentation must be kept accurate and current,05-operations-policy.md
+What is the process for escalating operational issues?,Operational issues must be escalated according to defined procedures,05-operations-policy.md
+How are standard operating procedures managed?,SOPs are maintained and reviewed regularly,05-operations-policy.md
+What is the password policy?,Passwords must comply with company security requirements,06-information-technology-policy.md
+Are employees allowed to install software?,Software installation requires authorization,06-information-technology-policy.md
+How should company devices be used?,Company devices must be used for approved business purposes,06-information-technology-policy.md
+How often must passwords be changed?,Passwords must be updated according to security policy,07-information-security-policy.md
+What should employees do after identifying a phishing email?,Phishing attempts must be reported immediately,07-information-security-policy.md
+How should security incidents be reported?,Security incidents must follow incident reporting procedures,07-information-security-policy.md
+Can employees use AI tools for work?,Approved AI tools may be used according to AI governance guidelines,08-ai-governance-policy.md
+Can confidential data be entered into public AI systems?,Confidential data must not be shared with unauthorized AI services,08-ai-governance-policy.md
+Who approves new AI tools?,AI tools require approval under governance procedures,08-ai-governance-policy.md
+How is personal employee data protected?,Personal data must be handled according to privacy requirements,09-data-privacy-policy.md
+What should be done in the event of a data breach?,Data breaches must be reported and managed according to policy,09-data-privacy-policy.md
+How are employee expenses reimbursed?,Expense reimbursements follow finance procedures,10-finance-policy.md
+Who approves company expenditures?,Company expenditures require proper authorization,10-finance-policy.md
+Can employees work remotely?,Remote work is permitted under approved arrangements,12-remote-work-policy.md
