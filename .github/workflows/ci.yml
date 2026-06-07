@@ -40,6 +40,10 @@ jobs:
         run: |
           python health_check.py
 
+      - name: Build Vector Index
+        run: |
+          python build_index.py
+
       - name: Run Retrieval Smoke Test
         run: |
           python smoke_test.py
