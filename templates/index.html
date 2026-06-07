@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Othellow Digital Policy Assistant
+    </title>
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/styles.css') }}"
+    >
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="hero-card">
+
+        <div class="badge">
+            AI-Powered Enterprise Knowledge Base
+        </div>
+
+        <h1>
+            OTHELLOW DIGITAL
+        </h1>
+
+        <p class="hero-subtitle">
+            AI Ready for Questions on Corporate Policy & Procedures Manual
+        </p>
+
+        <div class="company-profile">
+
+            <h3>
+                Company Profile
+            </h3>
+
+            <p>
+                Othellow Digital is a Philippine-based digital media organization specializing in educational content, lifehacks, productivity resources, and useful entertainment distributed through web platforms, social media channels, streaming services, and emerging digital ecosystems.
+            </p>
+
+            <p>
+                The company operates with approximately 45 full-time employees across content production, technology, marketing, finance, human resources, operations, and artificial intelligence functions.
+            </p>
+
+            <p>
+                The organization adopts a hybrid-first work model supported by cloud-based collaboration systems and artificial intelligence tools.
+            </p>
+
+        </div>
+
+    </div>
+
+    <h2 class="section-title">
+        Ask a Policy Question
+    </h2>
+
+    <textarea
+        id="question"
+        placeholder="Example: What is the annual leave policy?"
+    ></textarea>
+
+    <button onclick="askQuestion()">
+        Ask Question
+    </button>
+
+    <div id="chat-history"></div>
+
+</div>
+
+<script
+    src="{{ url_for('static', filename='js/app.js') }}"
+></script>
+
+</body>
+</html>
